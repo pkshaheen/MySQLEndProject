@@ -7,7 +7,7 @@ Library Management System using MySQL. Here is a mini library database with tabl
 5. **Return status.**
 6. **Books**
 
-   Created respective constraints in each tables and solved following  based on this library management system
+   Created respective constraints in each tables and solved following based on this library management system
    1. **Retrieve the book title, category, and rental price of all available books.**
    2. **List the employee names and their respective salaries in descending order of salary.**
    3. **Retrieve the book titles and the corresponding customers who have issued those books.**
@@ -19,5 +19,3 @@ Library Management System using MySQL. Here is a mini library database with tabl
    9. **Retrieve book_title from book table containing history.**
    10. **Retrieve the branch numbers along with the count of employees for branches having more than 5 employees.**
 
-**Note** : Datas created are fictional used strictly for to demonstrate beginner data analysis skills. 
-       The results are not official and should not be used to conclude actual relationships between the variables listed and education.
